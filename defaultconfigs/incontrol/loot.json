@@ -1,0 +1,74 @@
+[
+{
+    "mob": "minecraft:squid",
+    "player": true,
+    "item": "oceansdelight:tentacles",
+    "itemcount": "1-2/1-3/2-3"
+},
+{
+    "mob": "minecraft:glow_squid",
+    "player": true,
+    "item": "oceansdelight:tentacles",
+    "itemcount": "1-2/1-3/2-3"
+},
+{
+    "mob": "minecraft:cow",
+    "player": true,
+    "item": "minecraft:beef",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:cow",
+    "player": true,
+    "item": "minecraft:leather",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:pig",
+    "player": true,
+    "item": "minecraft:porkchop",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:sheep",
+    "player": true,
+    "item": "minecraft:mutton",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:sheep",
+    "player": true,
+    "item": "minecraft:white_wool",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:goat",
+    "player": true,
+    "item": "goated:chevon",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:chicken",
+    "player": true,
+    "item": "minecraft:chicken",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:chicken",
+    "player": true,
+    "item": "minecraft:feather",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:zombie",
+    "player": true,
+    "item": "minecraft:rotten_flesh",
+    "itemcount": "4-8/8-10/10-5"
+},
+{
+    "mob": "minecraft:skeleton",
+    "player": true,
+    "item": "minecraft:bone",
+    "itemcount": "4-8/8-10/10-5"
+}
+]

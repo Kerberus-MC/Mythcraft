@@ -1,0 +1,6 @@
+[  {
+    "timeout": 60,
+    "dimension": "minecraft:overworld",
+    "potion": "dragonsurvival:animal_peace,900,0"
+  }
+  ]

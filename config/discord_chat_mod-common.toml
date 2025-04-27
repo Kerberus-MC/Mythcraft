@@ -1,0 +1,25 @@
+# Bot access token
+# [!] Make sure all Privileged Gateway Intents are enabled on https://discord.com/developers/applications/<your_app_id>/bot
+# [!] Make sure the bot has the following rights on the server:
+# [!] - VIEW_CHANNEL
+# [!] - MESSAGE_SEND
+# [!] - MESSAGE_SEND_IN_THREADS
+# [!] - MESSAGE_EMBED_LINKS
+# [!] - MESSAGE_ATTACH_FILES
+# [!] - MESSAGE_MANAGE
+# [!] - MESSAGE_HISTORY
+discordBotToken = ""
+# Discord channel ID for messaging with MineCraft
+# [!] Make sure the bot has access to the channel and all the rights listed above.
+discordChannelId = ""
+# Do logging to the server console messages from discord
+logDiscordMessages = true
+# Create a pinned message with the current server status and player list
+enablePinnedStatusMessage = true
+# Notify about internal Discord interaction errors in the server's in-game chat
+logDiscordErrorsToServerChat = true
+# If logDiscordErrorsToServerChat=true, then the errors in the chat will be seen by players with the specified selector
+# By default, "@a" — all players. You can specify a specific nickname or attribute, for example, "@a[tag=admin]"
+discordErrorsChatPlayerSelector = "@a"
+# Mod locale
+modLocale = "en_us"

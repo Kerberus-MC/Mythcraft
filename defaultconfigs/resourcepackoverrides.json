@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  "default_packs": [],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "BetterVanillaBuildingV3.5.zip": {
+    "hidden": true
+    },
+    "Better_Farm_Animals_v0.08.zip": {
+    "hidden": true
+    },
+    "mod_resources": {
+    "hidden": true
+    },
+    "reblured": {
+    "hidden": true
+    },
+    "vanilla": {
+    "hidden": true
+    }
+  }
+}

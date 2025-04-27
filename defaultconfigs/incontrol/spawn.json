@@ -1,0 +1,96 @@
+[ 
+  {
+    "mod": "minecraft:warden",
+    "result": "allow"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "minheight": 60,
+    "healthmultiply": 0.8,
+    "damagemultiply": 0.5,
+	"continue": true,
+    "time": "range(1,12516)"
+  },
+  {
+    "mob": ["minecraft:cod", "minecraft:salmon"],
+    "dimension": "minecraft:overworld",
+    "mincount": {  
+	"amount": 4,
+    "mob": ["minecraft:cod", "minecraft:salmon"],
+    "perchunk": true},
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:drowned"],
+    "dimension": "minecraft:overworld",
+    "mincount": {  
+	"amount": 3,
+    "mob": ["minecraft:drowned"],
+    "perchunk": true},
+	"spawner": false,
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:glow_squid"],
+    "random": 0.5,
+	"continue": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:glow_squid"],
+	"spawner": false,
+    "dimension": "minecraft:overworld",
+    "mincount": {  
+	 "amount": 2,
+     "mob": ["minecraft:glow_squid"],
+     "perchunk": true},
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:bat"],
+	"spawner": false,
+    "dimension": "minecraft:overworld",
+    "mincount": {  
+	 "amount": 1,
+     "mob": ["minecraft:bat"],
+     "perplayer": true  },
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:ocelot"],
+    "mincount": {  
+	"amount": 1,
+    "mob": "minecraft:ocelot",
+    "perchunk": true},
+	"continue": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:ocelot"],
+    "mincount": {  
+	"amount": 2,
+    "mob": "minecraft:ocelot",
+    "perplayer": true},
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:phantom"],
+    "dimension": "minecraft:overworld",
+	"spawner": false,
+    "result": "deny"
+  },
+  {
+    "hostile": true,
+    "dimension": "minecraft:overworld",
+    "minheight": 20,
+    "random": 0.9,
+	"spawner": false,
+    "result": "deny"
+  },
+  {
+    "hostile": true,
+    "random": 0.5,
+	"spawner": false,
+    "result": "deny"
+  }
+]
