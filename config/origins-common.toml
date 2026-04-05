@@ -1,0 +1,555 @@
+
+[origins]
+
+	[origins."dndorigins:dwarf"]
+		enabled = true
+		"dndorigins:size_small" = true
+		"dndorigins:darkvision" = true
+		"dndorigins:dwarf/dwarven_resilience" = true
+		"dndorigins:dwarf/dwarven_toughness" = true
+		"dndorigins:dwarf/stonecunning" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:raptor/cave"]
+		enabled = true
+		"dndorigins:raptor/cave/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/cave/vision" = true
+		"dndorigins:common/cave/hydrophobia" = true
+		"dndorigins:common/cave/abilities" = true
+		"dndorigins:common/cave/traits" = true
+		"dndorigins:common/cave/metabolism" = true
+		"dndorigins:common/cave/climate" = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."dndorigins:raptor/forest"]
+		enabled = true
+		"dndorigins:raptor/forest/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/forest/nyctophobia" = true
+		"dndorigins:common/forest/abilities" = true
+		"dndorigins:common/forest/traits" = true
+		"dndorigins:common/forest/metabolism" = true
+		"dndorigins:common/forest/climate" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."origins-classes:warrior"]
+		enabled = true
+		"origins-classes:more_attack_damage" = true
+		"origins-classes:less_shield_slowdown" = true
+
+	[origins."origins:elytrian"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:launch_into_air" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:claustrophobia" = true
+		"origins:more_kinetic_damage" = true
+
+	[origins."dndorigins:dragon/cave"]
+		enabled = true
+		"dndorigins:dragon/cave/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/cave/vision" = true
+		"dndorigins:common/cave/hydrophobia" = true
+		"dndorigins:common/cave/abilities" = true
+		"dndorigins:common/cave/traits" = true
+		"dndorigins:common/cave/metabolism" = true
+		"dndorigins:common/cave/climate" = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."dndorigins:dragonborn_subspecies/brass"]
+		enabled = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."dndorigins:tiefling"]
+		enabled = true
+		"dndorigins:superior_darkvision" = true
+		"dndorigins:fire_immunity" = true
+		"dndorigins:tiefling/hellish_rebuke" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."origins-classes:explorer"]
+		enabled = true
+		"origins-classes:explorer_kit" = true
+		"origins-classes:no_sprint_exhaustion" = true
+
+	[origins."dndorigins:raptor/sea"]
+		enabled = true
+		"dndorigins:raptor/sea/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/sea/amphibious" = true
+		"dndorigins:common/sea/abilities" = true
+		"dndorigins:common/sea/traits" = true
+		"dndorigins:common/sea/metabolism" = true
+		"dndorigins:common/sea/climate" = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."dndorigins:dragonborn_subspecies/copper"]
+		enabled = true
+		"dndorigins:acid_immunity" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."origins-classes:rancher"]
+		enabled = true
+		"origins-classes:twin_breeding" = true
+		"origins-classes:more_animal_loot" = true
+
+	[origins."origins:blazeborn"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:nether_spawn" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:damage_from_snowballs" = true
+		"origins:damage_from_potions" = true
+
+	[origins."dndorigins:drake/forest"]
+		enabled = true
+		"dndorigins:drake/forest/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/forest/nyctophobia" = true
+		"dndorigins:common/forest/abilities" = true
+		"dndorigins:common/forest/traits" = true
+		"dndorigins:common/forest/metabolism" = true
+		"dndorigins:common/forest/climate" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."origins-classes:farmer"]
+		enabled = true
+		"origins-classes:more_crop_drops" = true
+		"origins-classes:better_bone_meal" = true
+
+	[origins."dndorigins:vampire"]
+		enabled = true
+		"dndorigins:vampire/become_vampire" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:prevent_dragon_altar" = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."dndorigins:human"]
+		enabled = true
+		"dndorigins:prevent_dragon_altar" = true
+		"dndorigins:human/adrenaline" = true
+
+	[origins."origins-classes:miner"]
+		enabled = true
+		"origins-classes:more_stone_break_speed" = true
+		"origins-classes:no_mining_exhaustion" = true
+
+	[origins."dndorigins:aarakocra"]
+		enabled = true
+		"dndorigins:aarakocra/bird_diet" = true
+		"dndorigins:aarakocra/flight" = true
+		"dndorigins:aarakocra/talons" = true
+		"dndorigins:aarakocra/wind_caller" = true
+		"dndorigins:aarakocra/winged" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:gnome"]
+		enabled = true
+		"dndorigins:gnome/gnomish_cunning" = true
+		"dndorigins:gnome/natural_illusionist" = true
+		"dndorigins:gnome/speak_with_small_beasts" = true
+		"dndorigins:gnome/frail" = true
+		"dndorigins:size_half" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."origins-classes:cook"]
+		enabled = true
+		"origins-classes:better_crafted_food" = true
+		"origins-classes:more_smoker_xp" = true
+
+	[origins."dndorigins:dragonborn"]
+		enabled = true
+		"dndorigins:darkvision" = true
+		"dndorigins:size_large" = true
+		"dndorigins:dragonborn/sturdy" = true
+		"dndorigins:dragonborn/tough_scales" = true
+		"dndorigins:dragonborn/predator_diet" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:elf"]
+		enabled = true
+		"dndorigins:elf/trance" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:elf_subspecies/high"]
+		enabled = true
+		"dndorigins:darkvision" = true
+		"dndorigins:elf/fire_bolt" = true
+
+	[origins."dndorigins:fairy"]
+		enabled = true
+		"dndorigins:fairy/fairy_dust" = true
+		"dndorigins:fairy/fairy_magic" = true
+		"dndorigins:fairy/flight" = true
+		"dndorigins:fairy/jockey" = true
+		"dndorigins:fairy/frail" = true
+		"dndorigins:fairy/weak" = true
+		"dndorigins:size_tiny" = true
+		"dndorigins:fairy/fairy_particles" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:werewolf"]
+		enabled = true
+		"dndorigins:werewolf/become_werewolf" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:prevent_dragon_altar" = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."dndorigins:dragon/forest"]
+		enabled = true
+		"dndorigins:dragon/forest/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/forest/nyctophobia" = true
+		"dndorigins:common/forest/abilities" = true
+		"dndorigins:common/forest/traits" = true
+		"dndorigins:common/forest/metabolism" = true
+		"dndorigins:common/forest/climate" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."dndorigins:kobold"]
+		enabled = true
+		"dndorigins:darkvision" = true
+		"dndorigins:kobold/draconic_cry" = true
+		"dndorigins:kobold/tough_scales" = true
+		"dndorigins:heat_resistance" = true
+		"dndorigins:kobold/frail" = true
+		"dndorigins:size_half" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:dragonborn_subspecies/gold"]
+		enabled = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."dndorigins:warforged"]
+		enabled = true
+		"dndorigins:poison_immunity" = true
+		"dndorigins:warforged/constructed_resilience" = true
+		"dndorigins:warforged/right_to_repair" = true
+		"dndorigins:warforged/integrated_protection" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:dragonborn_subspecies/white"]
+		enabled = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."dndorigins:dragon"]
+		enabled = true
+
+	[origins."dndorigins:dragonborn_subspecies/blue"]
+		enabled = true
+		"dndorigins:lightning_immunity" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."dndorigins:dragonborn_subspecies/green"]
+		enabled = true
+		"dndorigins:poison_immunity" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."origins-classes:blacksmith"]
+		enabled = true
+		"origins-classes:quality_equipment" = true
+		"origins-classes:efficient_repairs" = true
+
+	[origins."origins-classes:rogue"]
+		enabled = true
+		"origins-classes:sneaky" = true
+		"origins-classes:stealth" = true
+		"origins-classes:stealth_core" = true
+
+	[origins."origins-classes:nitwit"]
+		enabled = true
+
+	[origins."origins:enderian"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins:water_vulnerability" = true
+		"origins:pumpkin_hate" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+
+	[origins."dndorigins:tabaxi"]
+		enabled = true
+		"dndorigins:darkvision" = true
+		"dndorigins:tabaxi/frail" = true
+		"dndorigins:tabaxi/feline_agility" = true
+		"dndorigins:tabaxi/cats_claws" = true
+		"dndorigins:tabaxi/climbing" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."origins:feline"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:sprint_jump" = true
+		"origins:velvet_paws" = true
+		"origins:nine_lives" = true
+		"origins:weak_arms" = true
+		"origins:scare_creepers" = true
+		"origins:cat_vision" = true
+
+	[origins."dndorigins:wyvern/cave"]
+		enabled = true
+		"dndorigins:wyvern/cave/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/cave/vision" = true
+		"dndorigins:common/cave/hydrophobia" = true
+		"dndorigins:common/cave/abilities" = true
+		"dndorigins:common/cave/traits" = true
+		"dndorigins:common/cave/metabolism" = true
+		"dndorigins:common/cave/climate" = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."dndorigins:triton"]
+		enabled = true
+		"dndorigins:darkvision" = true
+		"dndorigins:triton/amphibious" = true
+		"dndorigins:triton/control_air_and_water" = true
+		"dndorigins:triton/emissary_of_the_sea" = true
+		"dndorigins:frost_immunity" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:elf_subspecies/drow"]
+		enabled = true
+		"dndorigins:superior_darkvision" = true
+		"dndorigins:elf/sunlight_sensitivity" = true
+
+	[origins."origins:phantom"]
+		enabled = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:phasing" = true
+		"origins:invisibility" = true
+		"origins:burn_in_daylight" = true
+		"origins:hunger_over_time" = true
+		"origins:fragile" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."origins-classes:beastmaster"]
+		enabled = true
+		"origins-classes:tamed_animal_boost" = true
+		"origins-classes:tamed_potion_diffusal" = true
+
+	[origins."origins-classes:merchant"]
+		enabled = true
+		"origins-classes:trade_availability" = true
+		"origins-classes:rare_wandering_loot" = true
+
+	[origins."origins:avian"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:fresh_air" = true
+		"origins:like_air" = true
+		"origins:tailwind" = true
+		"origins:lay_eggs" = true
+		"origins:vegetarian" = true
+
+	[origins."dndorigins:dragonborn_subspecies/red"]
+		enabled = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."origins-classes:archer"]
+		enabled = true
+		"origins-classes:no_projectile_divergence" = true
+		"origins-classes:less_bow_slowdown" = true
+
+	[origins."dndorigins:drake/sea"]
+		enabled = true
+		"dndorigins:drake/sea/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/sea/amphibious" = true
+		"dndorigins:common/sea/abilities" = true
+		"dndorigins:common/sea/traits" = true
+		"dndorigins:common/sea/metabolism" = true
+		"dndorigins:common/sea/climate" = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."dndorigins:leviathan/cave"]
+		enabled = true
+		"dndorigins:leviathan/cave/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/cave/vision" = true
+		"dndorigins:common/cave/hydrophobia" = true
+		"dndorigins:common/cave/abilities" = true
+		"dndorigins:common/cave/traits" = true
+		"dndorigins:common/cave/metabolism" = true
+		"dndorigins:common/cave/climate" = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."dndorigins:orc"]
+		enabled = true
+		"dndorigins:size_large" = true
+		"dndorigins:darkvision" = true
+		"dndorigins:orc/tough" = true
+		"dndorigins:orc/powerful_build" = true
+		"dndorigins:orc/adrenaline_rush" = true
+		"dndorigins:orc/relentless_endurance" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:dragonborn_subspecies/black"]
+		enabled = true
+		"dndorigins:acid_immunity" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."dndorigins:loxodon"]
+		enabled = true
+		"dndorigins:size_large" = true
+		"dndorigins:loxodon/natural_armor" = true
+		"dndorigins:loxodon/powerful_build" = true
+		"dndorigins:loxodon/tough" = true
+		"dndorigins:loxodon/trunk" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:goblin"]
+		enabled = true
+		"dndorigins:darkvision" = true
+		"dndorigins:goblin/nimble_escape" = true
+		"dndorigins:goblin/frail" = true
+		"dndorigins:size_half" = true
+		"dndorigins:prevent_dragon_altar" = true
+
+	[origins."dndorigins:leviathan/sea"]
+		enabled = true
+		"dndorigins:leviathan/sea/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/sea/amphibious" = true
+		"dndorigins:common/sea/abilities" = true
+		"dndorigins:common/sea/traits" = true
+		"dndorigins:common/sea/metabolism" = true
+		"dndorigins:common/sea/climate" = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."dndorigins:leviathan/forest"]
+		enabled = true
+		"dndorigins:leviathan/forest/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/forest/nyctophobia" = true
+		"dndorigins:common/forest/abilities" = true
+		"dndorigins:common/forest/traits" = true
+		"dndorigins:common/forest/metabolism" = true
+		"dndorigins:common/forest/climate" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."origins-classes:lumberjack"]
+		enabled = true
+		"origins-classes:tree_felling" = true
+		"origins-classes:more_planks_from_logs" = true
+
+	[origins."dndorigins:dwarf_subspecies/mountain"]
+		enabled = true
+		"dndorigins:dwarf/dwarven_armor_training" = true
+
+	[origins."dndorigins:wyvern/sea"]
+		enabled = true
+		"dndorigins:wyvern/sea/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/sea/amphibious" = true
+		"dndorigins:common/sea/abilities" = true
+		"dndorigins:common/sea/traits" = true
+		"dndorigins:common/sea/metabolism" = true
+		"dndorigins:common/sea/climate" = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."dndorigins:elf_subspecies/wood"]
+		enabled = true
+		"dndorigins:darkvision" = true
+		"dndorigins:elf/fleet_of_foot" = true
+
+	[origins."origins:shulk"]
+		enabled = true
+		"origins:shulker_inventory" = true
+		"origins:natural_armor" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+
+	[origins."origins-classes:cleric"]
+		enabled = true
+		"origins-classes:potion_bonus" = true
+		"origins-classes:better_enchanting" = true
+
+	[origins."dndorigins:dragonborn_subspecies/bronze"]
+		enabled = true
+		"dndorigins:lightning_immunity" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."origins:merling"]
+		enabled = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:aqua_affinity" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:air_from_potions" = true
+
+	[origins."dndorigins:dragonborn_subspecies/silver"]
+		enabled = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."origins:arachnid"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:master_of_webs" = true
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+
+	[origins."dndorigins:wyvern/forest"]
+		enabled = true
+		"dndorigins:wyvern/forest/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/forest/nyctophobia" = true
+		"dndorigins:common/forest/abilities" = true
+		"dndorigins:common/forest/traits" = true
+		"dndorigins:common/forest/metabolism" = true
+		"dndorigins:common/forest/climate" = true
+		"dndorigins:cold_resistance" = true
+		"dndorigins:heat_resistance" = true
+
+	[origins."dndorigins:drake/cave"]
+		enabled = true
+		"dndorigins:drake/cave/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/cave/vision" = true
+		"dndorigins:common/cave/hydrophobia" = true
+		"dndorigins:common/cave/abilities" = true
+		"dndorigins:common/cave/traits" = true
+		"dndorigins:common/cave/metabolism" = true
+		"dndorigins:common/cave/climate" = true
+		"dndorigins:fire_immunity" = true
+
+	[origins."dndorigins:dragon/sea"]
+		enabled = true
+		"dndorigins:dragon/sea/subspecies" = true
+		"dndorigins:common/age" = true
+		"dndorigins:common/sea/amphibious" = true
+		"dndorigins:common/sea/abilities" = true
+		"dndorigins:common/sea/traits" = true
+		"dndorigins:common/sea/metabolism" = true
+		"dndorigins:common/sea/climate" = true
+		"dndorigins:frost_immunity" = true
+
+	[origins."dndorigins:dwarf_subspecies/hill"]
+		enabled = true
+		"dndorigins:dwarf/dwarven_toughness" = true
+
