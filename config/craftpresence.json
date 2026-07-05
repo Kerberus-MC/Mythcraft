@@ -134,7 +134,8 @@
       "buttons": {}
     },
     "dynamicIcons": {
-      "mythcraft.modded.fun": "https://api.mcsrvstat.us/icon/mythcraft.modded.fun"
+      "mythcraft.modded.fun": "https://api.mcsrvstat.us/icon/mythcraft.modded.fun",
+      "mythcraft.kerberus.gg": "https://api.mcsrvstat.us/icon/mythcraft.kerberus.gg"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",

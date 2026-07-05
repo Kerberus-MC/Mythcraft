@@ -1,0 +1,61 @@
+
+[spawning]
+	#Dragon spawn configuration - control where and how often dragons spawn
+	#Note: spawn weights are relative per biome/category roll.
+	#Final spawn frequency also depends on each dragon's spawn predicate and placement checks.
+	#Natural wild spawns are also filtered by shared density rules to stop creature-category dragons from piling up.
+	#Raevyx additionally requires a thunderstorm for natural/chunk-generation spawning.
+	#Raevyx spawn settings
+	#Range: 0 ~ 5000
+	raevyxSpawnWeight = 1
+	#Range: 1 ~ 10
+	raevyxMinGroupSize = 1
+	#Range: 1 ~ 10
+	raevyxMaxGroupSize = 2
+	#Stegonaut spawn settings
+	#Range: 0 ~ 5000
+	stegonautSpawnWeight = 5
+	#Range: 1 ~ 10
+	stegonautMinGroupSize = 1
+	#Range: 1 ~ 10
+	stegonautMaxGroupSize = 4
+	#Cindervane spawn settings
+	#Range: 0 ~ 5000
+	cindervaneSpawnWeight = 3
+	#Range: 1 ~ 10
+	cindervaneMinGroupSize = 1
+	#Range: 1 ~ 10
+	cindervaneMaxGroupSize = 3
+	#Whether Cindervane egg blocks generate in worldgen feature patches
+	cindervaneEggBlockWorldgen = true
+	#Varasuchus spawn settings
+	#Range: 0 ~ 5000
+	varasuchusSpawnWeight = 2
+	#Range: 1 ~ 10
+	varasuchusMinGroupSize = 1
+	#Range: 1 ~ 10
+	varasuchusMaxGroupSize = 2
+	#Whether Varasuchus egg blocks generate in worldgen feature patches
+	varasuchusEggBlockWorldgen = true
+	#Ignivorus spawn settings
+	#Range: 0 ~ 5000
+	ignivorusSpawnWeight = 1
+	#Range: 1 ~ 10
+	ignivorusMinGroupSize = 1
+	#Range: 1 ~ 10
+	ignivorusMaxGroupSize = 1
+	#Volitans spawn settings (custom underwater spawner for ocean/wetland habitats)
+	#Range: 0 ~ 5000
+	volitansSpawnWeight = 1
+	#Range: 1 ~ 10
+	volitansMinGroupSize = 1
+	#Range: 1 ~ 10
+	volitansMaxGroupSize = 1
+	#Nulljaw spawn settings (End-floating dragon)
+	#Range: 0 ~ 5000
+	nulljawSpawnWeight = 4
+	#Range: 1 ~ 10
+	nulljawMinGroupSize = 4
+	#Range: 1 ~ 10
+	nulljawMaxGroupSize = 4
+

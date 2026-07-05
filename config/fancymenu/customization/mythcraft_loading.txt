@@ -16,7 +16,7 @@ menu_background {
   instance_identifier = 4eb7c9e2-8702-4ed7-9850-1e72ed890493-1759559024037
   background_type = color_fancymenu
   show_background = true
-  color = #230213
+  color = #350E22
 }
 
 menu_background {
@@ -411,7 +411,7 @@ element {
 }
 
 element {
-  color = #e21445
+  color = #f9dbb7
   element_type = drippy_vanilla_bar
   instance_identifier = c8de6205-4367-4be9-af56-91a1807ccbf7-1759559207989
   appearance_delay = no_delay
@@ -460,91 +460,6 @@ element {
   advanced_vertical_tilt_degrees = 0.0
   horizontal_tilt_degrees = 0.0
   advanced_horizontal_tilt_degrees = 0.0
-}
-
-element {
-  interactable = true
-  source = Dragon Fact: Dragon's love to wawa.
-  source_mode = direct
-  shadow = true
-  enable_scrolling = true
-  auto_line_wrapping = true
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  click_event_color = #0771FCFF
-  hover_event_color = #0771FCFF
-  quote_color = #818181FF
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  parse_markdown = true
-  table_show_header = true
-  table_alternate_row_colors = true
-  table_line_color = #787878FF
-  table_header_background_color = #323232FF
-  table_row_background_color = #282828FF
-  table_alternate_row_color = #3C3C3CFF
-  element_type = text_v2
-  instance_identifier = ed665ba3-4574-479b-8043-9c4f41ed589b-1759560817855
-  appearance_delay = no_delay
-  disappearance_delay = no_delay
-  fade_in_v2 = no_fading
-  fade_out = no_fading
-  auto_sizing = false
-  auto_sizing_base_screen_width = 2562
-  auto_sizing_base_screen_height = 1440
-  sticky_anchor = false
-  anchor_point = bottom-centered
-  x = -94
-  y = -44
-  width = 187
-  height = 20
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = bb1b9dae-81d6-49f5-b31c-1a3978e53aaf-1759560817855
-  [loading_requirement_container_meta:bb1b9dae-81d6-49f5-b31c-1a3978e53aaf-1759560817855] = [groups:][instances:]
-  enable_parallax = false
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  layer_hidden_in_editor = false
-  advanced_rotation_mode = false
-  advanced_vertical_tilt_mode = false
-  advanced_horizontal_tilt_mode = false
-  should_be_affected_by_decoration_overlays = false
-  in_editor_color = #FFC800FF
-  advanced_posx = -2147483648
-  advanced_posy = -2147483648
-  advanced_width = -2147483648
-  advanced_height = -2147483648
-  stretch_x = false
-  stretch_y = false
-  appearance_delay_seconds = 1.0
-  disappearance_delay_seconds = 1.0
-  fade_in_speed = 1.0
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  parallax_intensity_x = 0.5
-  parallax_intensity_y = 0.5
-  rotation_degrees = 0.0
-  advanced_rotation_degrees = 0.0
-  vertical_tilt_degrees = 0.0
-  advanced_vertical_tilt_degrees = 0.0
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_degrees = 0.0
-  base_color = #e21445
-  scale = 1.0
-  text_border = 2
-  line_spacing = 2
-  quote_indent = 8.0
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  table_line_thickness = 1.0
-  table_cell_padding = 8.0
-  table_margin = 4.0
 }
 
 vanilla_button {
