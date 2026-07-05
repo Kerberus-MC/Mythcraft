@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Entity illageandspillage:bone has no attributes", "Entity illageandspillage:axe has no attributes", "registerReloadListener at the wrong time", "Fabric API detected! This is not a Fabric mod", "Static binding violation:", "Error loading class:", "Attempted to select a dependency jar for JarJar", "Unable to get \"atlauncher\" pack data", "Asset name \"mythcraft\" does not exist", "Failed to query auras from the server", "Palette mask cataclysm:item/music_disc_maledictus", "Unknown enchantment betterarcheology:seas_bounty", "Mod(s) [oculus] are modifying Embeddium", "Failed to load model mowziesmobs:", "Failed to load model mna:models/block/eldrin/pylon_ring", "villagersellanimals:villagersellanimals"]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Reference map '.*\\.refmap\\.json' for .* could not be read"]
+

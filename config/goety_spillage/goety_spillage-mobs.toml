@@ -1,0 +1,33 @@
+
+[Servants]
+	#Whether Chagrin Sentries made by players or servants shoot ghost arrows, Default: true
+	chagrinGhostArrow = true
+	#Whether Hinders made by players or servants will stop healing after a while and enter cooldown, Default: true
+	hinderCool = true
+	#If 'hinderCool' is enabled, how long Hinders can heal before entering cooldown, count seconds, Default: 5
+	#Range: > 0
+	hinderHealTime = 5
+	#If 'hinderCool' is enabled, how long Hinders' cooldown last before they can heal again, count seconds, Default: 10
+	#Range: > 0
+	hinderCoolTime = 10
+	#Whether Snipers made by players or servants shoot ghost arrows, Default: true
+	sniperGhostArrow = true
+	#How long Preserver Servant's Hay Armor lasts, count seconds, Default: 300
+	#Range: > 0
+	preserverDuration = 300
+
+	[Servants."Undead Servants"]
+		#Whether Bound Freakagers burns in Sunlight, Default: false
+		boundFreakagerSun = false
+		#Whether Bound Engineers burns in Sunlight, Default: false
+		boundEngineerSun = false
+		#Whether Zombie Absorbers can heal if summoned while wearing Necro Cape, Default: true
+		zombieAbsorberHeal = true
+		#How frequent Zombie Absorbers heal, count seconds, Default: 60
+		#Range: > 0
+		zombieAbsorberHealTime = 60
+
+[Villagers]
+	#Having an owned Ragno, causes Villagers around the Player to have a negative Reputation, Default: true
+	villagerHateRagno = true
+

@@ -1,0 +1,11 @@
+
+[common]
+
+	#Properties relating to gameplay
+	[common.gameplay]
+		#If enabled, Amigos will receive damage from your attacks.
+		friendlyFire = false
+		#If enabled, Amigos will mount the entity the player is riding when interacting. Rideable entities
+		#that support this behavior are configured via the #migamigos:ride_with_player entity_type tag
+		rideWithPlayer = true
+

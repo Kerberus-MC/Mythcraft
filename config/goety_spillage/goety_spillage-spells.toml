@@ -1,0 +1,67 @@
+
+[Spells]
+
+	[Spells."Impish Spell"]
+		#Impish Spell Cost, Default: 32
+		#Range: > 0
+		impishCost = 32
+		#Time to cast Impish Spell, Default: 40
+		#Range: 0 ~ 72000
+		impishTime = 40
+		#Impish Spell Cooldown, Default: 100
+		#Range: > 0
+		impishCoolDown = 100
+		#How much base damage Imps deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		impishDamage = 4.0
+
+	[Spells."Spirit Hand Spell"]
+		#Spirit Hand Spell Cost, Default: 64
+		#Range: > 0
+		spiritHandCost = 64
+		#Time to cast Spirit Hand Spell, Default: 40
+		#Range: 0 ~ 72000
+		spiritHandTime = 40
+		#Spirit Hand Spell Cooldown, Default: 900
+		#Range: > 0
+		spiritHandCoolDown = 900
+
+	[Spells."Requiem Spell"]
+		#Requiem Spell Cost, Default: 10000
+		#Range: > 0
+		requiemCost = 10000
+		#Time to cast Requiem Spell, Default: 55
+		#Range: 20 ~ 72000
+		requiemTime = 55
+		#Requiem Spell Cooldown, Default: 200
+		#Range: > 0
+		requiemCoolDown = 200
+
+	[Spells."Soul Beam Spell"]
+		#Soul Beam Spell Cost, Default: 64
+		#Range: > 0
+		soulBeamCost = 64
+		#Time to cast Soul Beam Spell, Default: 100
+		#Range: 0 ~ 72000
+		soulBeamDuration = 100
+		#Soul Beam Spell Cooldown, Default: 140
+		#Range: > 0
+		soulBeamCoolDown = 140
+		#How much base damage Soul Beam deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		soulBeamDamage = 4.0
+
+["Servant Limits"]
+	#How many Engineer Machines (Chagrin, Hinder, Factory) owned by a player or servant can be placed 100 blocks near them, Default: 3
+	#Range: > 1
+	engineerMachineLimit = 3
+	#How many Factory Servants (Beeper, Sniper, Poker) made by a Factory owned by a player or servant can be placed 100 blocks near them, Default: 5
+	#Range: > 1
+	factoryServantLimit = 5
+	#Number of Zombie Absorbers that an individual player can have in total, Default: 2
+	#Range: > 1
+	zombieAbsorberLimit = 2
+	#Number of Ragnos that an individual player can have in total, Default: 1
+	#Range: > 1
+	ragnoLimit = 1
+
