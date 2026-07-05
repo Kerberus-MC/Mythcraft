@@ -54,16 +54,6 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
-  "jadeaddons.create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "goggles.detailed": false,
-    "placard": true
-  },
   "jadeaddons.lootr": {
     "info": true
   },
@@ -81,11 +71,11 @@
   "waystones": {
     "waystone": true
   },
+  "gravestone": {
+    "grave": true
+  },
   "camera": {
     "image_frame": true
-  },
-  "corpse": {
-    "corpse": true
   },
   "goety": {
     "block_owner": true,

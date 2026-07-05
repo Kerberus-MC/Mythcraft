@@ -54,6 +54,22 @@
 	bossMusic = true
 	#Players camera can shake. Default: true
 	cameraShake = true
+	#Show the Ominous Charm Bad Omen amount in Gui, Default: true
+	ocGuiShow = true
+	#Show the Eternal Cauldron cooldown in Gui, Default: true
+	ecGuiShow = true
+	#Move where the equipped Ominous Charm counter is located horizontally from its original position (- = Left, + = Right), Default: 0
+	#Range: > -2147483647
+	ocGuiHorizontal = 0
+	#Move where the equipped Ominous Charm counter is located vertically from its original position (- = Up, + = Down), Default: 0
+	#Range: > -2147483647
+	ocGuiVertical = 0
+	#Move where the equipped Eternal Cauldron counter is located horizontally from its original position (- = Left, + = Right), Default: 0
+	#Range: > -2147483647
+	ecGuiHorizontal = 0
+	#Move where the equipped Eternal Cauldron counter is located vertically from its original position (- = Up, + = Down), Default: 0
+	#Range: > -2147483647
+	ecGuiVertical = 0
 
 ["Mod Compatibility"]
 	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: false

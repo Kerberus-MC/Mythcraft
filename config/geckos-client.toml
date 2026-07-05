@@ -1,0 +1,10 @@
+#Show gecko name in HUD
+show_gecko_name = true
+show_background = true
+show_sleep_text = true
+show_hud = true
+#Range: 0 ~ 10000
+hud_x = 472
+#Range: 0 ~ 10000
+hud_y = 313
+

@@ -1067,17 +1067,6 @@
         "value": 2048
       }
     },
-    "reach-entity-attributes:attack_range": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "malum:soul_ward_integrity": {
       "enabled": false,
       "min": {
@@ -1087,6 +1076,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "reach-entity-attributes:attack_range": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "tinkersjewelry:subspace": {

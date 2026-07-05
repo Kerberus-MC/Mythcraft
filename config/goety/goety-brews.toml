@@ -112,7 +112,7 @@
 	#Levitation Extra Capacity, Default: 2
 	#Range: > 0
 	levitationCapacity = 2
-	#Resistance Extra Capacity, Default: 6
+	#Resistance Extra Capacity, Default: 8
 	#Range: > 0
 	resistanceCapacity = 6
 	#Wither Extra Capacity, Default: 1
@@ -358,9 +358,12 @@
 		#Webbed Soul Cost, Default: 50
 		#Range: > 1
 		webbedCost = 50
+		#Exchange Soul Cost, Default: 25
+		#Range: > 1
+		exchangeCost = 25
 
 ["Modded Capacity"]
-	#How much Capacity is given initially, Default: 4
+	#How much Capacity is given initially, Default: 1
 	#Range: > 1
 	initialCapacity = 4
 	#How much Capacity is given for first level, Default: 2
@@ -378,6 +381,9 @@
 	#How much Capacity is given for fifth level, Default: 4
 	#Range: > 0
 	level5Capacity = 4
+	#How much Capacity is given for sixth level, Default: 6
+	#Range: > 0
+	level6Capacity = 6
 
 	["Modded Capacity"."Status Effects"]
 		#Bottling Extra Capacity, Default: 4
