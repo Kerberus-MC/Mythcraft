@@ -1,3 +1,14 @@
+# Mythcraft 21.1.5
+
+**Release** - 2026-07-05
+
+## Added
+
+- Xaero's Minimap
+- Xaero's World Map
+
+---
+
 # Mythcraft 21.1.4
 
 **Release** - 2026-07-05
